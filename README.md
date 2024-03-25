@@ -27,15 +27,15 @@
 
 - 💻 &nbsp; SpringWeb | Java | Maven | Jpa | MySQL
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | RestApi | GitFlow
+- 🌐 &nbsp; RestApi | GitFlow
 
-<!--
+
 
 - 🛢 &nbsp; MySQL | JPA
 
 - 🔧 &nbsp; Git | Trello | Agile | IntelliJ Idea
 
--->
+
 
 
 <hr>
