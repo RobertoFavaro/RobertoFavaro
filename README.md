@@ -48,7 +48,12 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=robertofavaro&show_icons=true&locale=en&layout=compact" alt="robertofavaro" /></p>
 
+<br>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robertofavaro&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="robertofavaro" /></p>
+
+<br>
 
 
 
@@ -60,10 +65,5 @@
  
 <p align="left">
 <a href="https://www.linkedin.com/in/roberto-favaro-629002253/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robertofavaro&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="robertofavaro" /></p>
-
-<br>
 </p>
