@@ -44,8 +44,6 @@
 
 
 
-<img align='right' src="https://media.tenor.com/Z-KtPAM0_Z0AAAAi/social-icons.gif" width="50" style="margin-right: 1200px;">
-
 
 
 <h3> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80" style="margin-left: 200px;">
