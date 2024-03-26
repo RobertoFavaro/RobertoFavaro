@@ -1,7 +1,13 @@
 ### Ciao 👋<h2> Sono Roberto Favaro</h2>
 <h3 align="center">Un appassionato di backend-developer</h3>
 
+<br>
 
+<p align="right"> <h3>Profile Views :</h3> <img src="https://komarev.com/ghpvc/?username=robertofavaro&label=Profile%20views&color=0e75b6&style=flat"
+    alt="robertofavaro" /> 
+  </p>
+
+<br>
 
 
 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture><b>Su di me</b>
